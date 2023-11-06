@@ -1,0 +1,20 @@
+body{
+    background-color: whitesmoke;
+}
+h2{
+    color:#116D6E; position: relative ; left: 20px; font-size: 30px;
+}
+a{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #116D6E;  font-size: 15px; margin-left: 50px; font-style: bold;
+    position: relative; bottom: 50px; left: 750px;
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 70px; color: #116D6E; line-height: 60px; letter-spacing: 7px;
+    position: relative; left: 20px; top: 40px;
+    
+}
+img{
+    width: 260px; position: relative; bottom: 295px; left: 585px; margin-left: 25px;
+}
